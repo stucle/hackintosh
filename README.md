@@ -1,1 +1,2 @@
-# FileBag
+- backup EFI for K46CA
+- config libs
